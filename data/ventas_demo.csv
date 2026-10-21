@@ -1,0 +1,1001 @@
+﻿Fecha,Folio,Vendedor,Producto,Cantidad,Precio unitario,Sucursal,Estado
+07/09/2026,VTA-00001,Ana,Audífonos,5,499,Guadalupe,Completada
+15/09/2026,VTA-00002,Carlos,Mouse,3,899,Monterrey,Completada
+28/09/2026,VTA-00003,Ana,Audífonos,1,899,Guadalupe,Completada
+25/09/2026,VTA-00004,Mariana,Audífonos,2,199,San Nicolás,Completada
+23/08/2026,VTA-00005,Sofía,Mouse,3,2499,Guadalupe,Cancelada
+06/09/2026,VTA-00006,Mariana,Webcam,1,899,Monterrey,Completada
+15/10/2026,VTA-00007,Luis,Mouse,2,349,San Nicolás,Completada
+06/10/2026,VTA-00008,Carlos,Webcam,1,199,Monterrey,Completada
+12/10/2026,VTA-00009,Mariana,Webcam,3,2499,Guadalupe,Completada
+06/09/2026,VTA-00010,Sofía,Teclado,4,2499,Monterrey,Completada
+14/08/2026,VTA-00011,Sofía,Audífonos,4,349,Guadalupe,Completada
+15/10/2026,VTA-00012,Ana,Monitor,2,899,Monterrey,Completada
+23/09/2026,VTA-00013,Luis,Audífonos,2,349,San Nicolás,Completada
+29/08/2026,VTA-00014,Ana,Webcam,4,199,Guadalupe,Completada
+18/09/2026,VTA-00015,Luis,Mouse,1,199,Guadalupe,Completada
+26/08/2026,VTA-00016,Luis,Teclado,2,199,Monterrey,Completada
+22/08/2026,VTA-00017,Sofía,Webcam,2,499,Monterrey,Completada
+02/08/2026,VTA-00018,Luis,Teclado,4,349,San Nicolás,Completada
+22/09/2026,VTA-00019,Ana,Mouse,5,499,Guadalupe,Completada
+11/10/2026,VTA-00020,Sofía,Webcam,1,499,Monterrey,Completada
+18/08/2026,VTA-00021,Mariana,Webcam,4,349,Monterrey,Cancelada
+11/08/2026,VTA-00022,Mariana,Webcam,5,199,Monterrey,Pendiente
+30/09/2026,VTA-00023,Luis,Teclado,1,499,Guadalupe,Completada
+19/08/2026,VTA-00024,Luis,Mouse,1,349,San Nicolás,Completada
+24/09/2026,VTA-00025,Ana,Monitor,3,899,San Nicolás,Completada
+09/10/2026,VTA-00026,Sofía,Mouse,5,2499,Guadalupe,Completada
+12/08/2026,VTA-00027,Carlos,Audífonos,4,899,Monterrey,Completada
+17/10/2026,VTA-00028,Luis,Teclado,3,899,Guadalupe,Pendiente
+05/09/2026,VTA-00029,Mariana,Mouse,4,199,Guadalupe,Pendiente
+01/10/2026,VTA-00030,Sofía,Teclado,5,499,San Nicolás,Completada
+28/08/2026,VTA-00031,Mariana,Mouse,5,499,Monterrey,Completada
+16/08/2026,VTA-00032,Mariana,Webcam,4,199,Monterrey,Completada
+15/08/2026,VTA-00033,Carlos,Webcam,4,199,Guadalupe,Pendiente
+05/09/2026,VTA-00034,Carlos,Teclado,5,349,San Nicolás,Pendiente
+12/08/2026,VTA-00035,Carlos,Webcam,4,2499,San Nicolás,Completada
+11/08/2026,VTA-00036,Sofía,Webcam,2,199,Monterrey,Cancelada
+24/08/2026,VTA-00037,Ana,Mouse,5,349,San Nicolás,Completada
+07/09/2026,VTA-00038,Sofía,Audífonos,1,2499,San Nicolás,Completada
+04/08/2026,VTA-00039,Carlos,Teclado,1,349,Monterrey,Completada
+24/09/2026,VTA-00040,Mariana,Webcam,2,2499,San Nicolás,Pendiente
+25/09/2026,VTA-00041,Mariana,Webcam,2,2499,San Nicolás,Completada
+17/08/2026,VTA-00042,Mariana,Monitor,3,199,Guadalupe,Completada
+27/08/2026,VTA-00043,Sofía,Mouse,2,499,Guadalupe,Completada
+06/08/2026,VTA-00044,Mariana,Monitor,4,349,San Nicolás,Cancelada
+16/09/2026,VTA-00045,Carlos,Teclado,1,499,Guadalupe,Pendiente
+21/09/2026,VTA-00046,Mariana,Webcam,4,199,San Nicolás,Pendiente
+24/09/2026,VTA-00047,Sofía,Mouse,4,349,San Nicolás,Completada
+09/08/2026,VTA-00048,Luis,Audífonos,4,899,Guadalupe,Completada
+05/08/2026,VTA-00049,Luis,Monitor,3,499,San Nicolás,Completada
+fecha-invalida,VTA-00050,Ana,Webcam,5,899,San Nicolás,Completada
+09/08/2026,VTA-00051,Luis,Monitor,2,499,Monterrey,Completada
+06/10/2026,VTA-00052,Sofía,Mouse,5,349,Guadalupe,Completada
+09/09/2026,VTA-00053,Mariana,Teclado,4,899,San Nicolás,Cancelada
+09/10/2026,VTA-00054,Mariana,Teclado,1,349,San Nicolás,Completada
+11/10/2026,VTA-00055,Carlos,Audífonos,2,199,San Nicolás,Cancelada
+02/09/2026,VTA-00056,Ana,Webcam,1,199,Monterrey,Completada
+05/08/2026,VTA-00057,Sofía,Teclado,3,2499,San Nicolás,Completada
+01/08/2026,VTA-00058,Carlos,Audífonos,2,349,Monterrey,Completada
+19/08/2026,VTA-00059,Mariana,Audífonos,5,899,Monterrey,Completada
+13/10/2026,VTA-00060,Luis,Audífonos,1,349,Monterrey,Completada
+15/09/2026,VTA-00061,Sofía,Webcam,5,899,Monterrey,Pendiente
+11/08/2026,VTA-00062,Luis,Teclado,3,2499,Monterrey,Pendiente
+27/08/2026,VTA-00063,Mariana,Audífonos,2,349,Monterrey,Pendiente
+15/08/2026,VTA-00064,Sofía,Monitor,5,349,Monterrey,Completada
+08/10/2026,VTA-00065,Sofía,Webcam,2,199,Guadalupe,Completada
+13/08/2026,VTA-00066,Sofía,Mouse,1,2499,Guadalupe,Completada
+27/08/2026,VTA-00067,Sofía,Monitor,3,199,San Nicolás,Completada
+17/09/2026,VTA-00068,Luis,Monitor,2,349,San Nicolás,Completada
+01/09/2026,VTA-00069,Mariana,Audífonos,5,2499,Monterrey,Completada
+20/08/2026,VTA-00070,Ana,Webcam,3,199,Monterrey,Completada
+07/08/2026,VTA-00071,Carlos,Teclado,3,349,Guadalupe,Completada
+13/09/2026,VTA-00072,Mariana,Audífonos,4,899,Monterrey,Completada
+18/09/2026,VTA-00073,Luis,Audífonos,2,2499,San Nicolás,Cancelada
+04/08/2026,VTA-00074,Ana,Teclado,2,199,San Nicolás,Completada
+12/09/2026,VTA-00075,Luis,Mouse,4,499,Monterrey,Completada
+06/10/2026,VTA-00076,Sofía,Webcam,5,2499,San Nicolás,Completada
+05/10/2026,VTA-00077,Luis,Mouse,5,499,Guadalupe,Completada
+20/08/2026,VTA-00078,Ana,Teclado,3,2499,Monterrey,Pendiente
+01/10/2026,VTA-00079,Mariana,Audífonos,4,199,Guadalupe,Completada
+03/08/2026,VTA-00080,Sofía,Webcam,2,499,Guadalupe,Pendiente
+01/09/2026,VTA-00081,Sofía,Audífonos,5,499,Guadalupe,Cancelada
+26/08/2026,VTA-00082,Carlos,Mouse,5,349,Guadalupe,Completada
+22/09/2026,VTA-00083,Mariana,Teclado,5,349,San Nicolás,Completada
+07/08/2026,VTA-00084,Luis,Teclado,5,199,Monterrey,Completada
+15/08/2026,VTA-00085,Carlos,Audífonos,4,499,Monterrey,Completada
+13/08/2026,VTA-00086,Mariana,Teclado,3,2499,San Nicolás,Pendiente
+19/10/2026,VTA-00087,Carlos,Webcam,4,2499,San Nicolás,Completada
+04/10/2026,VTA-00088,Ana,Mouse,1,899,San Nicolás,Completada
+06/08/2026,VTA-00089,Carlos,Monitor,1,499,San Nicolás,Completada
+30/08/2026,VTA-00090,Sofía,Mouse,2,199,Guadalupe,Pendiente
+13/10/2026,VTA-00091,Carlos,Audífonos,3,899,San Nicolás,Pendiente
+01/08/2026,VTA-00092,Mariana,Teclado,4,2499,Guadalupe,Completada
+18/10/2026,VTA-00093,Luis,Monitor,2,199,San Nicolás,Completada
+19/09/2026,VTA-00094,Ana,Monitor,1,499,Monterrey,Completada
+29/08/2026,VTA-00095,Carlos,Mouse,1,499,San Nicolás,Completada
+11/08/2026,VTA-00096,Carlos,Monitor,2,349,Monterrey,Pendiente
+28/08/2026,VTA-00097,Ana,Audífonos,1,349,Guadalupe,Completada
+13/10/2026,VTA-00098,Ana,Webcam,4,499,San Nicolás,Completada
+11/08/2026,VTA-00099,Carlos,Teclado,1,349,Monterrey,Completada
+25/08/2026,VTA-00099,Ana,Audífonos,2,349,Monterrey,Completada
+26/09/2026,VTA-00101,Sofía,Teclado,4,899,San Nicolás,Completada
+06/08/2026,VTA-00102,Ana,Webcam,2,199,Guadalupe,Completada
+19/10/2026,VTA-00103,Luis,Audífonos,5,899,Monterrey,Completada
+14/10/2026,VTA-00104,Ana,Teclado,5,2499,San Nicolás,Cancelada
+04/10/2026,VTA-00105,Carlos,Monitor,3,199,Monterrey,Completada
+10/09/2026,VTA-00106,Sofía,Teclado,3,349,Guadalupe,Completada
+05/08/2026,VTA-00107,Ana,Audífonos,3,899,San Nicolás,Completada
+22/09/2026,VTA-00108,Carlos,Webcam,1,2499,Monterrey,Completada
+24/09/2026,VTA-00109,Ana,Webcam,1,899,San Nicolás,Completada
+01/10/2026,VTA-00110,Mariana,Audífonos,4,199,San Nicolás,Pendiente
+29/08/2026,VTA-00111,Ana,Teclado,2,2499,San Nicolás,Completada
+06/10/2026,VTA-00112,Mariana,Mouse,2,499,Monterrey,Pendiente
+09/10/2026,VTA-00113,Carlos,Teclado,4,349,San Nicolás,Completada
+06/08/2026,VTA-00114,Carlos,Webcam,4,349,San Nicolás,Completada
+15/09/2026,VTA-00115,Carlos,Monitor,1,2499,San Nicolás,Completada
+01/10/2026,VTA-00116,Carlos,Mouse,5,899,San Nicolás,Completada
+13/08/2026,VTA-00117,Luis,Teclado,5,899,Guadalupe,Completada
+30/08/2026,VTA-00118,Mariana,Mouse,3,499,Monterrey,Completada
+12/10/2026,VTA-00119,Luis,Teclado,5,349,Monterrey,Completada
+16/10/2026,VTA-00120,Ana,Audífonos,3,199,Monterrey,Completada
+12/08/2026,VTA-00121,Carlos,Monitor,5,199,Guadalupe,Completada
+17/10/2026,VTA-00122,Ana,Mouse,3,499,Monterrey,Completada
+29/09/2026,VTA-00123,Carlos,Teclado,3,199,Guadalupe,Completada
+31/08/2026,VTA-00124,Carlos,Webcam,4,2499,San Nicolás,Completada
+25/08/2026,VTA-00125,Sofía,Mouse,5,899,San Nicolás,Completada
+16/10/2026,VTA-00126,Luis,Teclado,2,899,Monterrey,Completada
+15/10/2026,VTA-00127,Ana,Webcam,1,199,Guadalupe,Pendiente
+24/08/2026,VTA-00128,Ana,Monitor,2,899,San Nicolás,Completada
+09/09/2026,VTA-00129,Sofía,Teclado,4,499,San Nicolás,Completada
+27/08/2026,VTA-00130,Luis,Mouse,4,499,Guadalupe,Completada
+15/08/2026,VTA-00131,Luis,Mouse,3,199,Guadalupe,Completada
+06/10/2026,VTA-00132,Ana,Mouse,1,899,Guadalupe,Completada
+12/10/2026,VTA-00133,Ana,Mouse,5,2499,Guadalupe,Completada
+13/10/2026,VTA-00134,Carlos,Monitor,3,199,Guadalupe,Completada
+23/09/2026,VTA-00135,Luis,Monitor,1,349,San Nicolás,Completada
+03/10/2026,VTA-00136,Ana,Audífonos,2,899,San Nicolás,Pendiente
+10/08/2026,VTA-00137,Mariana,Webcam,1,199,Guadalupe,Cancelada
+03/08/2026,VTA-00138,Sofía,Audífonos,5,349,San Nicolás,Completada
+30/09/2026,VTA-00139,Sofía,Webcam,3,499,Monterrey,Completada
+17/09/2026,VTA-00140,Sofía,Audífonos,2,499,Guadalupe,Completada
+05/10/2026,VTA-00141,Carlos,Mouse,1,199,San Nicolás,Pendiente
+27/09/2026,VTA-00142,Sofía,Mouse,5,899,Guadalupe,Completada
+26/09/2026,VTA-00143,Ana,Teclado,2,2499,Monterrey,Completada
+08/10/2026,VTA-00144,Mariana,Audífonos,4,2499,Guadalupe,Completada
+19/08/2026,VTA-00145,Carlos,Mouse,4,199,Guadalupe,Completada
+03/09/2026,VTA-00146,Luis,Audífonos,1,199,Guadalupe,Completada
+02/10/2026,VTA-00147,Sofía,Teclado,3,2499,San Nicolás,Completada
+14/09/2026,VTA-00148,Ana,Mouse,5,899,Guadalupe,Cancelada
+10/08/2026,VTA-00149,Ana,Webcam,4,899,Monterrey,Pendiente
+08/10/2026,VTA-00150,Sofía,Monitor,-2,349,San Nicolás,Completada
+19/08/2026,VTA-00151,Mariana,Monitor,1,199,Monterrey,Completada
+06/08/2026,VTA-00152,Luis,Monitor,3,499,Monterrey,Completada
+01/08/2026,VTA-00153,Mariana,Webcam,2,2499,Guadalupe,Completada
+09/08/2026,VTA-00154,Carlos,Mouse,5,349,San Nicolás,Completada
+03/09/2026,VTA-00155,Luis,Teclado,4,899,Monterrey,Completada
+14/08/2026,VTA-00156,Carlos,Teclado,5,499,Guadalupe,Completada
+10/08/2026,VTA-00157,Mariana,Teclado,4,199,Monterrey,Pendiente
+16/10/2026,VTA-00158,Mariana,Webcam,2,349,Guadalupe,Completada
+09/08/2026,VTA-00159,Carlos,Monitor,1,499,Monterrey,Completada
+05/09/2026,VTA-00160,Sofía,Audífonos,3,499,San Nicolás,Completada
+30/08/2026,VTA-00161,Mariana,Audífonos,2,499,Monterrey,Pendiente
+30/08/2026,VTA-00162,Luis,Mouse,1,2499,San Nicolás,Completada
+29/09/2026,VTA-00163,Ana,Mouse,2,199,Monterrey,Cancelada
+22/09/2026,VTA-00164,Luis,Teclado,5,2499,Guadalupe,Completada
+18/09/2026,VTA-00165,Luis,Teclado,3,499,San Nicolás,Completada
+08/08/2026,VTA-00166,Mariana,Audífonos,3,499,Guadalupe,Completada
+02/08/2026,VTA-00167,Mariana,Mouse,5,899,Guadalupe,Completada
+04/09/2026,VTA-00168,Mariana,Teclado,5,499,San Nicolás,Completada
+21/08/2026,VTA-00169,Ana,Monitor,2,349,Guadalupe,Completada
+20/08/2026,VTA-00170,Carlos,Teclado,5,499,San Nicolás,Cancelada
+04/10/2026,VTA-00171,Luis,Monitor,2,2499,Guadalupe,Pendiente
+10/10/2026,VTA-00172,Sofía,Mouse,1,349,San Nicolás,Completada
+05/09/2026,VTA-00173,Luis,Mouse,2,899,Guadalupe,Completada
+07/10/2026,VTA-00174,Luis,Mouse,5,199,Monterrey,Completada
+15/08/2026,VTA-00175,Mariana,Audífonos,4,199,San Nicolás,Completada
+05/10/2026,VTA-00176,Carlos,Webcam,3,2499,Guadalupe,Completada
+06/09/2026,VTA-00177,Luis,Monitor,1,2499,Monterrey,Pendiente
+15/08/2026,VTA-00178,Mariana,Mouse,5,349,San Nicolás,Completada
+14/09/2026,VTA-00179,Sofía,Teclado,1,499,Monterrey,Completada
+07/09/2026,VTA-00180,Sofía,Mouse,3,899,Monterrey,Completada
+15/08/2026,VTA-00181,Mariana,Audífonos,3,899,San Nicolás,Cancelada
+18/09/2026,VTA-00182,Mariana,Webcam,3,499,Guadalupe,Completada
+30/08/2026,VTA-00183,Carlos,Webcam,2,2499,Monterrey,Completada
+25/09/2026,VTA-00184,Ana,Mouse,2,199,Monterrey,Completada
+15/10/2026,VTA-00185,Carlos,Webcam,5,899,Guadalupe,Completada
+19/08/2026,VTA-00186,Mariana,Teclado,1,499,Monterrey,Completada
+16/09/2026,VTA-00187,Luis,Webcam,1,349,San Nicolás,Completada
+09/10/2026,VTA-00188,Carlos,Mouse,4,2499,Monterrey,Completada
+28/09/2026,VTA-00189,Ana,Audífonos,4,499,Monterrey,Completada
+25/09/2026,VTA-00190,Luis,Mouse,4,499,Guadalupe,Completada
+19/10/2026,VTA-00191,Ana,Audífonos,1,899,Monterrey,Completada
+21/08/2026,VTA-00192,Sofía,Webcam,4,499,Guadalupe,Pendiente
+18/10/2026,VTA-00193,Mariana,Mouse,1,349,San Nicolás,Completada
+07/10/2026,VTA-00194,Ana,Audífonos,5,199,Monterrey,Completada
+09/10/2026,VTA-00195,Sofía,Monitor,5,349,Monterrey,Completada
+23/08/2026,VTA-00196,Carlos,Audífonos,4,199,Monterrey,Completada
+26/08/2026,VTA-00197,Carlos,Webcam,5,199,Monterrey,Cancelada
+03/08/2026,VTA-00198,Mariana,Mouse,4,349,San Nicolás,Completada
+08/09/2026,VTA-00199,Mariana,Mouse,1,349,Monterrey,Completada
+12/09/2026,VTA-00200,,Teclado,4,2499,Guadalupe,Completada
+13/09/2026,VTA-00201,Carlos,Webcam,5,899,Guadalupe,Completada
+02/10/2026,VTA-00202,Mariana,Mouse,4,899,San Nicolás,Completada
+08/10/2026,VTA-00203,Carlos,Teclado,5,2499,Guadalupe,Pendiente
+20/09/2026,VTA-00204,Mariana,Monitor,4,899,Monterrey,Cancelada
+04/08/2026,VTA-00205,Luis,Audífonos,1,199,San Nicolás,Cancelada
+02/08/2026,VTA-00206,Sofía,Audífonos,4,2499,Guadalupe,Pendiente
+29/09/2026,VTA-00207,Mariana,Webcam,1,499,Guadalupe,Completada
+06/10/2026,VTA-00208,Sofía,Webcam,2,199,Monterrey,Completada
+31/08/2026,VTA-00209,Ana,Audífonos,3,899,Monterrey,Cancelada
+04/10/2026,VTA-00210,Luis,Teclado,1,2499,Guadalupe,Completada
+12/10/2026,VTA-00211,Mariana,Audífonos,5,2499,Monterrey,Completada
+06/08/2026,VTA-00212,Ana,Webcam,5,2499,Monterrey,Pendiente
+17/10/2026,VTA-00213,Mariana,Teclado,4,2499,San Nicolás,Completada
+30/09/2026,VTA-00214,Mariana,Audífonos,3,349,Monterrey,Completada
+03/10/2026,VTA-00215,Sofía,Audífonos,2,349,San Nicolás,Completada
+28/08/2026,VTA-00216,Carlos,Monitor,2,499,San Nicolás,Completada
+08/09/2026,VTA-00217,Luis,Webcam,4,349,Guadalupe,Cancelada
+09/10/2026,VTA-00218,Luis,Audífonos,3,499,Guadalupe,Completada
+01/09/2026,VTA-00219,Carlos,Teclado,3,899,Monterrey,Completada
+27/09/2026,VTA-00220,Mariana,Monitor,4,2499,San Nicolás,Completada
+14/10/2026,VTA-00221,Luis,Teclado,5,899,Guadalupe,Completada
+19/10/2026,VTA-00222,Luis,Webcam,4,499,San Nicolás,Completada
+05/10/2026,VTA-00223,Luis,Monitor,4,499,Guadalupe,Completada
+09/08/2026,VTA-00224,Luis,Mouse,1,349,Guadalupe,Completada
+20/08/2026,VTA-00225,Luis,Audífonos,4,2499,Monterrey,Completada
+01/08/2026,VTA-00226,Mariana,Teclado,5,349,Monterrey,Completada
+12/09/2026,VTA-00227,Luis,Webcam,1,199,Guadalupe,Pendiente
+01/08/2026,VTA-00228,Ana,Monitor,2,499,San Nicolás,Pendiente
+04/09/2026,VTA-00229,Luis,Audífonos,4,2499,Guadalupe,Cancelada
+26/08/2026,VTA-00230,Carlos,Mouse,3,899,Guadalupe,Completada
+20/08/2026,VTA-00231,Sofía,Audífonos,1,199,San Nicolás,Completada
+12/09/2026,VTA-00232,Carlos,Teclado,4,499,San Nicolás,Cancelada
+16/08/2026,VTA-00233,Luis,Teclado,5,2499,San Nicolás,Cancelada
+02/08/2026,VTA-00234,Luis,Monitor,4,349,Monterrey,Completada
+11/09/2026,VTA-00235,Mariana,Audífonos,3,199,Guadalupe,Completada
+09/09/2026,VTA-00236,Carlos,Teclado,1,199,San Nicolás,Completada
+09/10/2026,VTA-00237,Luis,Audífonos,5,199,San Nicolás,Completada
+03/09/2026,VTA-00238,Mariana,Webcam,2,2499,Monterrey,Completada
+04/08/2026,VTA-00239,Sofía,Teclado,2,499,Guadalupe,Completada
+20/08/2026,VTA-00240,Mariana,Mouse,3,349,Guadalupe,Completada
+12/09/2026,VTA-00241,Mariana,Monitor,5,199,Guadalupe,Completada
+19/10/2026,VTA-00242,Sofía,Mouse,3,499,Guadalupe,Completada
+29/08/2026,VTA-00243,Carlos,Webcam,2,2499,Guadalupe,Completada
+26/09/2026,VTA-00244,Mariana,Monitor,3,199,San Nicolás,Completada
+01/09/2026,VTA-00245,Sofía,Webcam,3,899,Guadalupe,Cancelada
+15/08/2026,VTA-00246,Carlos,Mouse,3,499,San Nicolás,Cancelada
+20/08/2026,VTA-00247,Sofía,Monitor,4,349,Monterrey,Completada
+18/08/2026,VTA-00248,Ana,Monitor,1,2499,Monterrey,Completada
+23/09/2026,VTA-00249,Carlos,Audífonos,4,199,Monterrey,Completada
+14/09/2026,VTA-00250,Carlos,Webcam,1,precio-error,Guadalupe,Completada
+05/08/2026,VTA-00251,Carlos,Mouse,5,899,San Nicolás,Completada
+13/09/2026,VTA-00252,Sofía,Audífonos,5,499,Monterrey,Completada
+07/09/2026,VTA-00253,Carlos,Monitor,5,899,Guadalupe,Completada
+13/09/2026,VTA-00254,Sofía,Teclado,4,2499,San Nicolás,Completada
+28/09/2026,VTA-00255,Carlos,Webcam,3,899,Monterrey,Completada
+07/09/2026,VTA-00256,Ana,Audífonos,5,499,Guadalupe,Completada
+15/08/2026,VTA-00257,Luis,Webcam,3,899,Monterrey,Completada
+28/09/2026,VTA-00258,Luis,Mouse,1,349,San Nicolás,Completada
+02/09/2026,VTA-00259,Ana,Mouse,1,499,San Nicolás,Completada
+03/09/2026,VTA-00260,Mariana,Webcam,1,349,Monterrey,Completada
+02/08/2026,VTA-00261,Luis,Teclado,1,499,Monterrey,Completada
+16/10/2026,VTA-00262,Carlos,Teclado,5,899,Monterrey,Completada
+20/08/2026,VTA-00263,Sofía,Webcam,1,2499,San Nicolás,Completada
+15/09/2026,VTA-00264,Ana,Webcam,5,499,San Nicolás,Completada
+02/09/2026,VTA-00265,Carlos,Mouse,5,349,Monterrey,Completada
+08/09/2026,VTA-00266,Ana,Mouse,1,899,Guadalupe,Completada
+27/09/2026,VTA-00267,Sofía,Monitor,3,199,Guadalupe,Pendiente
+20/08/2026,VTA-00268,Mariana,Monitor,3,899,Guadalupe,Completada
+14/09/2026,VTA-00269,Sofía,Mouse,5,2499,San Nicolás,Completada
+26/09/2026,VTA-00270,Sofía,Webcam,1,349,Guadalupe,Completada
+05/10/2026,VTA-00271,Sofía,Monitor,2,499,Monterrey,Completada
+26/09/2026,VTA-00272,Mariana,Monitor,1,349,San Nicolás,Completada
+16/09/2026,VTA-00273,Sofía,Teclado,2,499,Guadalupe,Completada
+22/08/2026,VTA-00274,Sofía,Audífonos,2,899,Monterrey,Completada
+31/08/2026,VTA-00275,Sofía,Monitor,4,499,Monterrey,Cancelada
+17/10/2026,VTA-00276,Ana,Mouse,5,349,Guadalupe,Completada
+14/10/2026,VTA-00277,Carlos,Mouse,4,199,Monterrey,Completada
+27/08/2026,VTA-00278,Luis,Monitor,5,349,San Nicolás,Completada
+27/08/2026,VTA-00279,Sofía,Webcam,2,199,Monterrey,Completada
+15/09/2026,VTA-00280,Ana,Audífonos,4,2499,San Nicolás,Completada
+10/08/2026,VTA-00281,Sofía,Monitor,5,899,Monterrey,Pendiente
+31/08/2026,VTA-00282,Ana,Teclado,4,899,Monterrey,Cancelada
+02/10/2026,VTA-00283,Luis,Monitor,5,199,Guadalupe,Completada
+16/10/2026,VTA-00284,Luis,Monitor,1,199,San Nicolás,Cancelada
+04/10/2026,VTA-00285,Sofía,Teclado,4,899,Guadalupe,Completada
+27/09/2026,VTA-00286,Carlos,Teclado,5,499,San Nicolás,Cancelada
+01/10/2026,VTA-00287,Ana,Mouse,1,349,Guadalupe,Completada
+28/09/2026,VTA-00288,Ana,Audífonos,2,199,San Nicolás,Completada
+28/09/2026,VTA-00289,Sofía,Mouse,2,499,San Nicolás,Completada
+08/10/2026,VTA-00290,Luis,Audífonos,4,199,Guadalupe,Completada
+09/10/2026,VTA-00291,Carlos,Mouse,1,899,San Nicolás,Completada
+04/09/2026,VTA-00292,Sofía,Mouse,5,499,Monterrey,Cancelada
+24/09/2026,VTA-00293,Carlos,Audífonos,5,899,Guadalupe,Completada
+09/08/2026,VTA-00294,Ana,Monitor,2,499,Guadalupe,Completada
+12/10/2026,VTA-00295,Ana,Teclado,2,2499,Monterrey,Completada
+19/09/2026,VTA-00296,Mariana,Audífonos,4,199,San Nicolás,Completada
+22/09/2026,VTA-00297,Sofía,Teclado,3,199,Guadalupe,Pendiente
+11/09/2026,VTA-00298,Sofía,Mouse,4,2499,Monterrey,Completada
+10/10/2026,VTA-00299,Sofía,Mouse,2,2499,Guadalupe,Completada
+14/09/2026,VTA-00300,Mariana,Webcam,4,2499,San Nicolás,Desconocido
+22/09/2026,VTA-00301,Mariana,Webcam,3,199,Guadalupe,Completada
+26/08/2026,VTA-00302,Sofía,Teclado,4,499,Guadalupe,Completada
+07/09/2026,VTA-00303,Mariana,Monitor,4,899,Guadalupe,Completada
+27/08/2026,VTA-00304,Sofía,Mouse,1,899,Monterrey,Completada
+14/10/2026,VTA-00305,Sofía,Webcam,5,199,Monterrey,Pendiente
+17/08/2026,VTA-00306,Carlos,Teclado,3,2499,Guadalupe,Completada
+09/10/2026,VTA-00307,Mariana,Webcam,5,499,Guadalupe,Cancelada
+02/09/2026,VTA-00308,Sofía,Monitor,1,199,Guadalupe,Completada
+12/09/2026,VTA-00309,Luis,Webcam,2,349,San Nicolás,Completada
+04/09/2026,VTA-00310,Sofía,Audífonos,3,499,San Nicolás,Completada
+05/10/2026,VTA-00311,Ana,Mouse,2,499,Monterrey,Completada
+03/09/2026,VTA-00312,Luis,Audífonos,5,899,Guadalupe,Completada
+30/09/2026,VTA-00313,Sofía,Audífonos,3,349,Guadalupe,Completada
+03/09/2026,VTA-00314,Ana,Mouse,4,199,San Nicolás,Completada
+20/08/2026,VTA-00315,Ana,Teclado,3,2499,San Nicolás,Completada
+10/10/2026,VTA-00316,Carlos,Mouse,2,2499,Monterrey,Pendiente
+13/09/2026,VTA-00317,Ana,Webcam,1,349,Monterrey,Completada
+19/09/2026,VTA-00318,Carlos,Webcam,4,2499,Guadalupe,Completada
+10/09/2026,VTA-00319,Mariana,Webcam,4,499,Monterrey,Completada
+27/08/2026,VTA-00320,Ana,Audífonos,4,499,Guadalupe,Completada
+15/08/2026,VTA-00321,Sofía,Audífonos,4,899,San Nicolás,Completada
+18/09/2026,VTA-00322,Mariana,Monitor,1,499,San Nicolás,Completada
+03/08/2026,VTA-00323,Carlos,Webcam,3,199,Guadalupe,Completada
+01/10/2026,VTA-00324,Luis,Webcam,5,499,Guadalupe,Completada
+19/08/2026,VTA-00325,Luis,Audífonos,4,199,Monterrey,Completada
+14/10/2026,VTA-00326,Mariana,Teclado,3,349,Guadalupe,Completada
+11/08/2026,VTA-00327,Luis,Audífonos,1,2499,Guadalupe,Completada
+01/08/2026,VTA-00328,Luis,Webcam,5,899,San Nicolás,Completada
+22/08/2026,VTA-00329,Carlos,Teclado,4,499,San Nicolás,Completada
+10/09/2026,VTA-00330,Carlos,Monitor,4,199,Monterrey,Completada
+06/08/2026,VTA-00331,Carlos,Monitor,5,349,Monterrey,Completada
+16/08/2026,VTA-00332,Sofía,Audífonos,3,199,Guadalupe,Completada
+07/10/2026,VTA-00333,Mariana,Monitor,5,2499,San Nicolás,Completada
+17/09/2026,VTA-00334,Mariana,Audífonos,4,499,San Nicolás,Cancelada
+12/08/2026,VTA-00335,Luis,Monitor,4,349,Monterrey,Completada
+01/10/2026,VTA-00336,Sofía,Monitor,1,899,San Nicolás,Completada
+07/09/2026,VTA-00337,Luis,Monitor,4,349,Monterrey,Completada
+26/09/2026,VTA-00338,Ana,Webcam,1,199,Guadalupe,Completada
+18/09/2026,VTA-00339,Carlos,Audífonos,4,349,Monterrey,Completada
+28/08/2026,VTA-00340,Luis,Teclado,2,2499,Guadalupe,Cancelada
+27/08/2026,VTA-00341,Luis,Webcam,3,349,Monterrey,Completada
+06/08/2026,VTA-00342,Luis,Audífonos,1,899,Guadalupe,Completada
+18/10/2026,VTA-00343,Mariana,Webcam,1,349,San Nicolás,Completada
+18/08/2026,VTA-00344,Luis,Audífonos,1,899,San Nicolás,Completada
+18/10/2026,VTA-00345,Luis,Mouse,3,2499,Monterrey,Completada
+16/09/2026,VTA-00346,Ana,Monitor,1,2499,Monterrey,Completada
+02/09/2026,VTA-00347,Ana,Audífonos,1,2499,San Nicolás,Completada
+26/09/2026,VTA-00348,Sofía,Audífonos,1,2499,Guadalupe,Completada
+06/10/2026,VTA-00349,Ana,Monitor,2,2499,San Nicolás,Completada
+20/08/2026,VTA-00350,Luis,Monitor,2,2499,Guadalupe,Completada
+19/08/2026,VTA-00351,Sofía,Mouse,2,199,Monterrey,Completada
+10/10/2026,VTA-00352,Carlos,Mouse,3,199,San Nicolás,Completada
+27/09/2026,VTA-00353,Luis,Audífonos,2,899,Guadalupe,Pendiente
+07/09/2026,VTA-00354,Mariana,Audífonos,2,2499,Guadalupe,Completada
+23/08/2026,VTA-00355,Carlos,Monitor,1,199,San Nicolás,Completada
+19/08/2026,VTA-00356,Luis,Webcam,4,2499,Guadalupe,Completada
+08/08/2026,VTA-00357,Sofía,Audífonos,3,499,Guadalupe,Cancelada
+31/08/2026,VTA-00358,Sofía,Audífonos,5,199,Guadalupe,Completada
+20/08/2026,VTA-00359,Sofía,Webcam,1,499,San Nicolás,Cancelada
+25/08/2026,VTA-00360,Luis,Mouse,2,349,San Nicolás,Pendiente
+18/10/2026,VTA-00361,Mariana,Audífonos,5,899,Guadalupe,Completada
+02/08/2026,VTA-00362,Ana,Monitor,1,199,Monterrey,Completada
+04/09/2026,VTA-00363,Luis,Monitor,4,899,Monterrey,Completada
+11/08/2026,VTA-00364,Ana,Mouse,4,199,San Nicolás,Completada
+15/08/2026,VTA-00365,Mariana,Teclado,2,899,Monterrey,Completada
+22/08/2026,VTA-00366,Mariana,Audífonos,5,199,Monterrey,Completada
+23/08/2026,VTA-00367,Ana,Teclado,4,349,Monterrey,Completada
+09/10/2026,VTA-00368,Ana,Audífonos,5,199,Guadalupe,Completada
+12/10/2026,VTA-00369,Carlos,Mouse,5,199,Monterrey,Cancelada
+07/08/2026,VTA-00370,Ana,Monitor,4,2499,Monterrey,Completada
+22/08/2026,VTA-00371,Ana,Teclado,1,199,Guadalupe,Completada
+11/10/2026,VTA-00372,Carlos,Webcam,4,899,Monterrey,Completada
+21/09/2026,VTA-00373,Mariana,Monitor,1,899,San Nicolás,Completada
+04/09/2026,VTA-00374,Luis,Audífonos,2,899,Monterrey,Completada
+15/08/2026,VTA-00375,Ana,Audífonos,4,349,Guadalupe,Completada
+05/08/2026,VTA-00376,Carlos,Audífonos,1,349,Monterrey,Pendiente
+17/08/2026,VTA-00377,Luis,Webcam,5,2499,San Nicolás,Completada
+27/08/2026,VTA-00378,Mariana,Audífonos,4,349,Monterrey,Completada
+30/09/2026,VTA-00379,Ana,Mouse,3,499,Monterrey,Completada
+05/09/2026,VTA-00380,Sofía,Teclado,4,349,Monterrey,Cancelada
+15/10/2026,VTA-00381,Carlos,Mouse,4,899,Guadalupe,Completada
+18/09/2026,VTA-00382,Luis,Mouse,1,899,San Nicolás,Pendiente
+12/08/2026,VTA-00383,Mariana,Monitor,5,349,San Nicolás,Completada
+12/08/2026,VTA-00384,Ana,Webcam,5,349,San Nicolás,Pendiente
+04/09/2026,VTA-00385,Mariana,Monitor,1,199,Monterrey,Pendiente
+13/10/2026,VTA-00386,Mariana,Webcam,1,2499,Monterrey,Completada
+11/08/2026,VTA-00387,Ana,Mouse,2,899,Monterrey,Completada
+09/09/2026,VTA-00388,Carlos,Monitor,4,349,Monterrey,Cancelada
+03/10/2026,VTA-00389,Mariana,Monitor,5,499,Monterrey,Completada
+10/09/2026,VTA-00390,Ana,Webcam,3,349,Guadalupe,Pendiente
+14/09/2026,VTA-00391,Sofía,Audífonos,2,349,Guadalupe,Cancelada
+07/10/2026,VTA-00392,Luis,Monitor,4,499,San Nicolás,Pendiente
+05/09/2026,VTA-00393,Mariana,Mouse,2,899,Monterrey,Completada
+25/09/2026,VTA-00394,Luis,Webcam,5,199,Guadalupe,Completada
+07/10/2026,VTA-00395,Ana,Webcam,5,499,Guadalupe,Completada
+07/09/2026,VTA-00396,Mariana,Webcam,2,199,Monterrey,Completada
+10/09/2026,VTA-00397,Luis,Mouse,5,349,Guadalupe,Cancelada
+29/09/2026,VTA-00398,Ana,Mouse,5,899,San Nicolás,Pendiente
+02/09/2026,VTA-00399,Luis,Webcam,1,349,Monterrey,Completada
+04/10/2026,VTA-00400,Carlos,Webcam,1,349,Guadalupe,Completada
+04/09/2026,VTA-00401,Mariana,Monitor,3,349,Guadalupe,Completada
+24/09/2026,VTA-00402,Luis,Monitor,2,199,Monterrey,Completada
+30/09/2026,VTA-00403,Carlos,Audífonos,2,2499,Guadalupe,Completada
+25/08/2026,VTA-00404,Luis,Monitor,4,199,San Nicolás,Pendiente
+06/10/2026,VTA-00405,Ana,Monitor,5,2499,San Nicolás,Completada
+18/09/2026,VTA-00406,Carlos,Webcam,5,499,San Nicolás,Cancelada
+11/08/2026,VTA-00407,Luis,Mouse,3,499,Guadalupe,Completada
+26/08/2026,VTA-00408,Luis,Webcam,3,499,Monterrey,Completada
+30/08/2026,VTA-00409,Luis,Mouse,2,499,San Nicolás,Completada
+07/09/2026,VTA-00410,Ana,Monitor,3,499,San Nicolás,Completada
+03/08/2026,VTA-00411,Ana,Monitor,4,499,San Nicolás,Pendiente
+18/10/2026,VTA-00412,Carlos,Teclado,5,2499,San Nicolás,Completada
+08/08/2026,VTA-00413,Sofía,Mouse,2,349,San Nicolás,Completada
+05/10/2026,VTA-00414,Luis,Teclado,1,2499,Monterrey,Completada
+16/09/2026,VTA-00415,Mariana,Webcam,4,899,Guadalupe,Completada
+07/08/2026,VTA-00416,Sofía,Monitor,2,199,Monterrey,Cancelada
+09/09/2026,VTA-00417,Carlos,Audífonos,1,349,Monterrey,Cancelada
+29/08/2026,VTA-00418,Carlos,Audífonos,5,199,Monterrey,Completada
+27/08/2026,VTA-00419,Sofía,Mouse,3,899,Monterrey,Completada
+01/08/2026,VTA-00420,Sofía,Mouse,3,499,Guadalupe,Completada
+28/09/2026,VTA-00421,Ana,Monitor,4,199,Guadalupe,Completada
+26/08/2026,VTA-00422,Mariana,Audífonos,4,199,Guadalupe,Completada
+25/08/2026,VTA-00423,Ana,Audífonos,2,349,Monterrey,Completada
+11/10/2026,VTA-00424,Luis,Webcam,3,2499,Monterrey,Completada
+04/10/2026,VTA-00425,Luis,Mouse,2,899,San Nicolás,Pendiente
+13/09/2026,VTA-00426,Sofía,Monitor,1,199,Guadalupe,Completada
+08/09/2026,VTA-00427,Ana,Monitor,1,499,Monterrey,Completada
+01/10/2026,VTA-00428,Ana,Audífonos,1,2499,Monterrey,Completada
+05/08/2026,VTA-00429,Mariana,Teclado,4,199,Monterrey,Completada
+30/08/2026,VTA-00430,Sofía,Webcam,3,199,San Nicolás,Completada
+05/10/2026,VTA-00431,Luis,Monitor,2,2499,Guadalupe,Cancelada
+29/08/2026,VTA-00432,Mariana,Mouse,3,499,Monterrey,Completada
+27/08/2026,VTA-00433,Luis,Webcam,4,2499,San Nicolás,Completada
+30/08/2026,VTA-00434,Sofía,Webcam,2,499,San Nicolás,Completada
+18/10/2026,VTA-00435,Luis,Mouse,1,199,Guadalupe,Completada
+25/09/2026,VTA-00436,Luis,Teclado,5,199,San Nicolás,Completada
+12/09/2026,VTA-00437,Mariana,Teclado,4,899,Monterrey,Completada
+06/08/2026,VTA-00438,Ana,Mouse,2,899,San Nicolás,Cancelada
+17/10/2026,VTA-00439,Carlos,Audífonos,5,499,San Nicolás,Completada
+14/10/2026,VTA-00440,Luis,Webcam,3,199,Guadalupe,Completada
+10/10/2026,VTA-00441,Ana,Teclado,2,499,Monterrey,Cancelada
+28/08/2026,VTA-00442,Sofía,Monitor,1,2499,San Nicolás,Completada
+01/08/2026,VTA-00443,Carlos,Mouse,2,499,San Nicolás,Completada
+15/09/2026,VTA-00444,Sofía,Mouse,2,899,San Nicolás,Cancelada
+15/09/2026,VTA-00445,Carlos,Audífonos,2,899,Guadalupe,Completada
+07/08/2026,VTA-00446,Sofía,Teclado,4,2499,San Nicolás,Completada
+12/08/2026,VTA-00447,Sofía,Webcam,4,499,Monterrey,Completada
+01/08/2026,VTA-00448,Carlos,Monitor,3,2499,San Nicolás,Completada
+11/08/2026,VTA-00449,Ana,Mouse,3,499,Monterrey,Completada
+19/10/2026,VTA-00450,Luis,Audífonos,2,349,San Nicolás,Cancelada
+08/08/2026,VTA-00451,Mariana,Monitor,2,899,Guadalupe,Completada
+15/08/2026,VTA-00452,Mariana,Mouse,4,899,Monterrey,Completada
+08/10/2026,VTA-00453,Ana,Teclado,2,899,Guadalupe,Completada
+02/08/2026,VTA-00454,Ana,Monitor,2,199,Guadalupe,Completada
+27/09/2026,VTA-00455,Luis,Teclado,4,349,San Nicolás,Completada
+06/10/2026,VTA-00456,Sofía,Monitor,1,2499,Guadalupe,Pendiente
+09/08/2026,VTA-00457,Mariana,Teclado,4,899,San Nicolás,Completada
+17/09/2026,VTA-00458,Luis,Audífonos,1,2499,Monterrey,Completada
+07/08/2026,VTA-00459,Ana,Teclado,2,499,San Nicolás,Pendiente
+18/10/2026,VTA-00460,Ana,Teclado,2,199,San Nicolás,Pendiente
+09/10/2026,VTA-00461,Sofía,Audífonos,1,349,Monterrey,Completada
+27/08/2026,VTA-00462,Carlos,Monitor,1,2499,San Nicolás,Completada
+04/08/2026,VTA-00463,Carlos,Monitor,3,499,Guadalupe,Pendiente
+30/09/2026,VTA-00464,Carlos,Teclado,5,2499,San Nicolás,Completada
+08/08/2026,VTA-00465,Carlos,Webcam,1,899,Guadalupe,Completada
+16/10/2026,VTA-00466,Luis,Audífonos,4,199,San Nicolás,Completada
+27/09/2026,VTA-00467,Luis,Audífonos,4,2499,Guadalupe,Cancelada
+03/08/2026,VTA-00468,Ana,Audífonos,4,499,Guadalupe,Pendiente
+16/08/2026,VTA-00469,Luis,Mouse,2,2499,Guadalupe,Completada
+10/08/2026,VTA-00470,Sofía,Audífonos,5,899,Monterrey,Completada
+29/09/2026,VTA-00471,Sofía,Webcam,5,199,Monterrey,Completada
+18/08/2026,VTA-00472,Mariana,Mouse,5,199,Guadalupe,Cancelada
+17/10/2026,VTA-00473,Carlos,Monitor,3,899,Monterrey,Completada
+15/09/2026,VTA-00474,Carlos,Teclado,4,899,Monterrey,Completada
+19/08/2026,VTA-00475,Sofía,Teclado,1,349,Guadalupe,Completada
+03/08/2026,VTA-00476,Mariana,Teclado,4,199,Monterrey,Completada
+11/10/2026,VTA-00477,Luis,Mouse,1,499,Monterrey,Completada
+11/10/2026,VTA-00478,Sofía,Webcam,1,899,Guadalupe,Pendiente
+19/09/2026,VTA-00479,Ana,Audífonos,5,2499,Guadalupe,Completada
+04/09/2026,VTA-00480,Mariana,Audífonos,2,499,Monterrey,Completada
+11/09/2026,VTA-00481,Sofía,Teclado,1,499,Guadalupe,Completada
+08/08/2026,VTA-00482,Mariana,Mouse,5,499,Guadalupe,Pendiente
+27/09/2026,VTA-00483,Mariana,Audífonos,3,899,Monterrey,Completada
+26/09/2026,VTA-00484,Mariana,Audífonos,3,899,Guadalupe,Cancelada
+07/09/2026,VTA-00485,Luis,Webcam,1,2499,Guadalupe,Completada
+09/10/2026,VTA-00486,Mariana,Audífonos,4,349,Monterrey,Completada
+12/10/2026,VTA-00487,Mariana,Mouse,2,349,San Nicolás,Completada
+28/08/2026,VTA-00488,Sofía,Teclado,3,499,Monterrey,Pendiente
+21/08/2026,VTA-00489,Sofía,Mouse,3,349,San Nicolás,Pendiente
+17/10/2026,VTA-00490,Mariana,Mouse,3,199,San Nicolás,Completada
+07/09/2026,VTA-00491,Sofía,Audífonos,2,499,San Nicolás,Completada
+19/08/2026,VTA-00492,Sofía,Mouse,2,899,San Nicolás,Pendiente
+13/09/2026,VTA-00493,Carlos,Audífonos,3,2499,San Nicolás,Completada
+27/09/2026,VTA-00494,Carlos,Monitor,5,899,Guadalupe,Cancelada
+06/08/2026,VTA-00495,Sofía,Monitor,1,899,Guadalupe,Completada
+15/10/2026,VTA-00496,Luis,Mouse,2,349,Guadalupe,Completada
+03/09/2026,VTA-00497,Carlos,Webcam,5,499,Guadalupe,Completada
+06/10/2026,VTA-00498,Mariana,Monitor,1,2499,Guadalupe,Completada
+10/10/2026,VTA-00499,Mariana,Teclado,1,199,Guadalupe,Cancelada
+23/09/2026,VTA-00500,Sofía,Monitor,5,349,Monterrey,Completada
+08/10/2026,VTA-00501,Ana,Monitor,4,2499,Guadalupe,Completada
+18/08/2026,VTA-00502,Mariana,Webcam,1,499,San Nicolás,Completada
+16/08/2026,VTA-00503,Ana,Audífonos,1,2499,Guadalupe,Completada
+09/10/2026,VTA-00504,Sofía,Mouse,2,349,San Nicolás,Completada
+18/09/2026,VTA-00505,Mariana,Teclado,1,2499,San Nicolás,Completada
+10/08/2026,VTA-00506,Sofía,Teclado,2,899,Monterrey,Completada
+03/10/2026,VTA-00507,Mariana,Audífonos,5,499,San Nicolás,Completada
+22/09/2026,VTA-00508,Carlos,Mouse,3,349,Monterrey,Completada
+22/09/2026,VTA-00509,Mariana,Monitor,5,349,Guadalupe,Completada
+21/08/2026,VTA-00510,Carlos,Audífonos,5,499,Guadalupe,Cancelada
+26/08/2026,VTA-00511,Mariana,Audífonos,1,349,Monterrey,Pendiente
+13/08/2026,VTA-00512,Sofía,Mouse,5,499,Guadalupe,Completada
+18/08/2026,VTA-00513,Carlos,Mouse,3,899,San Nicolás,Completada
+13/08/2026,VTA-00514,Luis,Mouse,2,199,Guadalupe,Completada
+28/08/2026,VTA-00515,Luis,Monitor,1,499,Monterrey,Completada
+22/08/2026,VTA-00516,Sofía,Audífonos,1,899,San Nicolás,Completada
+14/08/2026,VTA-00517,Carlos,Audífonos,1,199,Monterrey,Completada
+13/08/2026,VTA-00518,Mariana,Teclado,1,899,Monterrey,Cancelada
+12/08/2026,VTA-00519,Ana,Audífonos,5,899,Guadalupe,Cancelada
+13/10/2026,VTA-00520,Carlos,Webcam,3,349,San Nicolás,Completada
+10/10/2026,VTA-00521,Ana,Audífonos,4,199,Monterrey,Cancelada
+06/09/2026,VTA-00522,Ana,Webcam,4,899,Monterrey,Completada
+13/10/2026,VTA-00523,Sofía,Teclado,2,499,San Nicolás,Completada
+22/08/2026,VTA-00524,Luis,Mouse,1,499,Monterrey,Completada
+21/08/2026,VTA-00525,Ana,Teclado,3,2499,Guadalupe,Completada
+15/08/2026,VTA-00526,Sofía,Monitor,2,899,Guadalupe,Completada
+07/10/2026,VTA-00527,Ana,Monitor,1,199,San Nicolás,Completada
+02/10/2026,VTA-00528,Luis,Teclado,2,199,Guadalupe,Completada
+24/08/2026,VTA-00529,Luis,Mouse,5,199,San Nicolás,Completada
+11/09/2026,VTA-00530,Ana,Audífonos,4,349,Monterrey,Completada
+10/08/2026,VTA-00531,Mariana,Teclado,2,2499,Guadalupe,Completada
+02/08/2026,VTA-00532,Sofía,Audífonos,5,499,San Nicolás,Completada
+26/09/2026,VTA-00533,Mariana,Webcam,1,2499,Monterrey,Completada
+17/10/2026,VTA-00534,Luis,Audífonos,1,199,Monterrey,Completada
+30/08/2026,VTA-00535,Sofía,Webcam,5,199,Guadalupe,Completada
+30/08/2026,VTA-00536,Luis,Teclado,2,199,Guadalupe,Pendiente
+07/08/2026,VTA-00537,Sofía,Mouse,5,899,Guadalupe,Completada
+22/09/2026,VTA-00538,Carlos,Monitor,3,2499,Monterrey,Completada
+24/08/2026,VTA-00539,Ana,Webcam,5,199,Monterrey,Cancelada
+24/09/2026,VTA-00540,Carlos,Audífonos,1,199,San Nicolás,Completada
+06/08/2026,VTA-00541,Luis,Audífonos,1,499,San Nicolás,Pendiente
+02/09/2026,VTA-00542,Mariana,Teclado,1,899,Monterrey,Completada
+14/09/2026,VTA-00543,Carlos,Monitor,3,199,Monterrey,Pendiente
+18/09/2026,VTA-00544,Sofía,Monitor,3,2499,San Nicolás,Completada
+04/08/2026,VTA-00545,Luis,Mouse,1,899,Guadalupe,Completada
+27/09/2026,VTA-00546,Mariana,Monitor,1,499,San Nicolás,Cancelada
+03/09/2026,VTA-00547,Luis,Teclado,4,199,Guadalupe,Completada
+28/08/2026,VTA-00548,Mariana,Audífonos,1,499,San Nicolás,Pendiente
+04/10/2026,VTA-00549,Mariana,Audífonos,1,199,San Nicolás,Completada
+02/08/2026,VTA-00550,Ana,Mouse,5,199,San Nicolás,Completada
+27/08/2026,VTA-00551,Luis,Webcam,4,499,San Nicolás,Completada
+08/09/2026,VTA-00552,Ana,Webcam,3,499,Monterrey,Pendiente
+26/09/2026,VTA-00553,Ana,Mouse,1,2499,San Nicolás,Completada
+27/09/2026,VTA-00554,Ana,Webcam,4,199,Guadalupe,Completada
+11/09/2026,VTA-00555,Carlos,Webcam,1,899,San Nicolás,Completada
+11/10/2026,VTA-00556,Mariana,Audífonos,3,899,Guadalupe,Cancelada
+30/08/2026,VTA-00557,Carlos,Monitor,2,199,San Nicolás,Completada
+25/09/2026,VTA-00558,Mariana,Audífonos,5,899,Monterrey,Completada
+19/09/2026,VTA-00559,Luis,Monitor,3,349,San Nicolás,Pendiente
+02/10/2026,VTA-00560,Luis,Monitor,4,499,San Nicolás,Completada
+17/08/2026,VTA-00561,Carlos,Monitor,1,199,Guadalupe,Cancelada
+08/08/2026,VTA-00562,Ana,Mouse,1,499,San Nicolás,Completada
+13/08/2026,VTA-00563,Carlos,Audífonos,3,2499,San Nicolás,Completada
+20/09/2026,VTA-00564,Mariana,Monitor,3,899,Monterrey,Completada
+05/10/2026,VTA-00565,Sofía,Teclado,5,349,Guadalupe,Completada
+30/09/2026,VTA-00566,Ana,Audífonos,4,199,Guadalupe,Completada
+17/08/2026,VTA-00567,Sofía,Webcam,1,349,Guadalupe,Completada
+02/10/2026,VTA-00568,Ana,Monitor,5,899,San Nicolás,Completada
+15/08/2026,VTA-00569,Carlos,Audífonos,3,349,Guadalupe,Completada
+18/09/2026,VTA-00570,Sofía,Webcam,2,349,Monterrey,Completada
+15/10/2026,VTA-00571,Ana,Audífonos,3,899,San Nicolás,Completada
+10/09/2026,VTA-00572,Carlos,Webcam,4,2499,San Nicolás,Completada
+17/08/2026,VTA-00573,Ana,Monitor,3,2499,Monterrey,Completada
+17/08/2026,VTA-00574,Carlos,Webcam,2,199,San Nicolás,Completada
+19/08/2026,VTA-00575,Carlos,Teclado,5,899,San Nicolás,Completada
+22/09/2026,VTA-00576,Sofía,Monitor,2,499,Monterrey,Completada
+11/09/2026,VTA-00577,Mariana,Mouse,2,499,Monterrey,Completada
+22/09/2026,VTA-00578,Luis,Mouse,1,2499,Monterrey,Completada
+18/08/2026,VTA-00579,Ana,Webcam,5,899,San Nicolás,Cancelada
+25/08/2026,VTA-00580,Mariana,Monitor,5,349,Monterrey,Completada
+04/08/2026,VTA-00581,Mariana,Webcam,1,2499,Guadalupe,Completada
+01/10/2026,VTA-00582,Sofía,Audífonos,1,349,Monterrey,Completada
+14/08/2026,VTA-00583,Mariana,Teclado,3,499,San Nicolás,Completada
+14/08/2026,VTA-00584,Sofía,Mouse,5,499,Guadalupe,Completada
+23/08/2026,VTA-00585,Mariana,Monitor,3,199,Monterrey,Completada
+02/10/2026,VTA-00586,Mariana,Audífonos,2,899,Guadalupe,Completada
+20/09/2026,VTA-00587,Ana,Webcam,3,899,Monterrey,Pendiente
+07/08/2026,VTA-00588,Mariana,Monitor,3,199,San Nicolás,Completada
+13/08/2026,VTA-00589,Luis,Webcam,1,349,Guadalupe,Completada
+18/10/2026,VTA-00590,Sofía,Webcam,2,499,San Nicolás,Completada
+23/09/2026,VTA-00591,Ana,Audífonos,4,199,Monterrey,Pendiente
+06/08/2026,VTA-00592,Luis,Audífonos,5,199,San Nicolás,Completada
+12/10/2026,VTA-00593,Sofía,Mouse,1,899,Guadalupe,Completada
+05/08/2026,VTA-00594,Mariana,Teclado,3,499,Monterrey,Completada
+20/09/2026,VTA-00595,Ana,Monitor,5,2499,Guadalupe,Completada
+25/09/2026,VTA-00596,Mariana,Teclado,5,2499,Monterrey,Completada
+06/08/2026,VTA-00597,Ana,Audífonos,4,199,Guadalupe,Completada
+04/08/2026,VTA-00598,Sofía,Audífonos,1,499,Guadalupe,Completada
+05/10/2026,VTA-00599,Mariana,Webcam,5,2499,Monterrey,Pendiente
+28/09/2026,VTA-00600,Ana,Audífonos,4,349,San Nicolás,Completada
+04/10/2026,VTA-00601,Luis,Mouse,1,499,Monterrey,Completada
+11/08/2026,VTA-00602,Carlos,Monitor,3,899,Monterrey,Pendiente
+08/09/2026,VTA-00603,Sofía,Monitor,4,2499,Monterrey,Completada
+14/10/2026,VTA-00604,Carlos,Teclado,3,499,San Nicolás,Completada
+03/10/2026,VTA-00605,Sofía,Webcam,3,349,Monterrey,Pendiente
+29/08/2026,VTA-00606,Sofía,Audífonos,5,199,Monterrey,Completada
+08/10/2026,VTA-00607,Mariana,Monitor,1,899,Monterrey,Completada
+16/08/2026,VTA-00608,Sofía,Monitor,5,499,Monterrey,Completada
+13/09/2026,VTA-00609,Carlos,Monitor,4,499,Monterrey,Completada
+19/10/2026,VTA-00610,Carlos,Mouse,2,199,Guadalupe,Completada
+25/09/2026,VTA-00611,Carlos,Monitor,2,899,San Nicolás,Pendiente
+22/08/2026,VTA-00612,Luis,Teclado,1,349,San Nicolás,Completada
+19/08/2026,VTA-00613,Ana,Mouse,2,199,Guadalupe,Completada
+30/09/2026,VTA-00614,Mariana,Teclado,5,499,Guadalupe,Completada
+15/09/2026,VTA-00615,Mariana,Teclado,1,2499,Guadalupe,Completada
+17/08/2026,VTA-00616,Ana,Webcam,3,2499,Guadalupe,Completada
+26/08/2026,VTA-00617,Sofía,Webcam,5,2499,Monterrey,Cancelada
+28/08/2026,VTA-00618,Sofía,Monitor,2,349,Guadalupe,Completada
+01/10/2026,VTA-00619,Carlos,Webcam,4,2499,Guadalupe,Completada
+19/08/2026,VTA-00620,Ana,Audífonos,4,2499,Monterrey,Completada
+21/09/2026,VTA-00621,Luis,Audífonos,1,899,Monterrey,Completada
+27/08/2026,VTA-00622,Luis,Mouse,5,2499,Monterrey,Completada
+22/09/2026,VTA-00623,Ana,Teclado,4,349,San Nicolás,Completada
+26/08/2026,VTA-00624,Mariana,Mouse,4,349,Monterrey,Pendiente
+09/10/2026,VTA-00625,Luis,Teclado,3,349,Monterrey,Completada
+16/08/2026,VTA-00626,Ana,Mouse,4,499,Guadalupe,Completada
+03/09/2026,VTA-00627,Ana,Audífonos,1,199,San Nicolás,Completada
+02/09/2026,VTA-00628,Mariana,Mouse,2,2499,San Nicolás,Completada
+15/09/2026,VTA-00629,Sofía,Mouse,2,349,Monterrey,Completada
+30/08/2026,VTA-00630,Luis,Teclado,2,349,Monterrey,Completada
+03/08/2026,VTA-00631,Carlos,Mouse,4,2499,Monterrey,Cancelada
+02/10/2026,VTA-00632,Carlos,Mouse,2,2499,Guadalupe,Cancelada
+10/10/2026,VTA-00633,Mariana,Webcam,2,349,Monterrey,Completada
+11/08/2026,VTA-00634,Sofía,Teclado,5,499,Guadalupe,Completada
+07/08/2026,VTA-00635,Sofía,Mouse,2,349,Guadalupe,Completada
+30/08/2026,VTA-00636,Mariana,Mouse,3,199,Guadalupe,Pendiente
+02/09/2026,VTA-00637,Ana,Audífonos,5,349,Monterrey,Completada
+03/10/2026,VTA-00638,Ana,Monitor,3,199,Monterrey,Completada
+19/10/2026,VTA-00639,Mariana,Monitor,5,2499,Guadalupe,Cancelada
+14/10/2026,VTA-00640,Carlos,Monitor,3,349,Guadalupe,Completada
+09/09/2026,VTA-00641,Carlos,Webcam,3,349,Monterrey,Completada
+21/08/2026,VTA-00642,Carlos,Teclado,3,199,San Nicolás,Pendiente
+15/09/2026,VTA-00643,Luis,Audífonos,4,199,Guadalupe,Completada
+07/09/2026,VTA-00644,Luis,Mouse,3,2499,Monterrey,Pendiente
+09/08/2026,VTA-00645,Ana,Mouse,4,349,Guadalupe,Completada
+15/10/2026,VTA-00646,Mariana,Webcam,4,199,Monterrey,Completada
+23/08/2026,VTA-00647,Mariana,Teclado,3,349,Guadalupe,Completada
+17/09/2026,VTA-00648,Ana,Mouse,3,499,Monterrey,Completada
+16/10/2026,VTA-00649,Luis,Mouse,2,2499,Monterrey,Completada
+18/09/2026,VTA-00650,Mariana,Audífonos,5,2499,Monterrey,Completada
+23/08/2026,VTA-00651,Ana,Teclado,2,499,San Nicolás,Completada
+05/08/2026,VTA-00652,Sofía,Audífonos,5,499,Guadalupe,Cancelada
+18/09/2026,VTA-00653,Mariana,Teclado,2,2499,San Nicolás,Cancelada
+29/09/2026,VTA-00654,Sofía,Webcam,2,2499,Monterrey,Completada
+07/09/2026,VTA-00655,Mariana,Mouse,3,899,Monterrey,Cancelada
+16/09/2026,VTA-00656,Ana,Audífonos,1,349,Guadalupe,Completada
+13/09/2026,VTA-00657,Luis,Webcam,2,899,San Nicolás,Cancelada
+28/08/2026,VTA-00658,Ana,Monitor,2,349,Monterrey,Cancelada
+18/09/2026,VTA-00659,Luis,Monitor,2,199,Monterrey,Completada
+12/08/2026,VTA-00660,Mariana,Webcam,5,2499,Monterrey,Completada
+15/08/2026,VTA-00661,Sofía,Teclado,4,199,San Nicolás,Pendiente
+08/10/2026,VTA-00662,Sofía,Mouse,1,899,Guadalupe,Completada
+14/10/2026,VTA-00663,Luis,Audífonos,5,899,Guadalupe,Completada
+19/09/2026,VTA-00664,Luis,Mouse,4,499,Guadalupe,Completada
+26/09/2026,VTA-00665,Mariana,Monitor,3,2499,Monterrey,Completada
+19/09/2026,VTA-00666,Mariana,Audífonos,2,899,San Nicolás,Completada
+23/08/2026,VTA-00667,Carlos,Mouse,1,199,Guadalupe,Completada
+24/08/2026,VTA-00668,Mariana,Audífonos,3,199,San Nicolás,Cancelada
+23/09/2026,VTA-00669,Luis,Webcam,2,499,Monterrey,Completada
+13/09/2026,VTA-00670,Ana,Mouse,4,899,San Nicolás,Completada
+24/09/2026,VTA-00671,Luis,Audífonos,5,2499,Guadalupe,Completada
+22/09/2026,VTA-00672,Luis,Audífonos,5,199,San Nicolás,Completada
+11/09/2026,VTA-00673,Luis,Mouse,5,899,San Nicolás,Cancelada
+14/09/2026,VTA-00674,Luis,Mouse,4,899,San Nicolás,Completada
+12/08/2026,VTA-00675,Mariana,Audífonos,3,899,Guadalupe,Completada
+05/10/2026,VTA-00676,Sofía,Monitor,4,499,San Nicolás,Completada
+17/09/2026,VTA-00677,Carlos,Teclado,3,349,San Nicolás,Pendiente
+22/09/2026,VTA-00678,Luis,Mouse,3,899,San Nicolás,Completada
+13/09/2026,VTA-00679,Mariana,Teclado,5,199,Monterrey,Completada
+29/08/2026,VTA-00680,Sofía,Webcam,5,349,Guadalupe,Completada
+09/10/2026,VTA-00681,Mariana,Audífonos,3,499,Monterrey,Completada
+07/10/2026,VTA-00682,Sofía,Teclado,2,499,Monterrey,Pendiente
+09/08/2026,VTA-00683,Carlos,Monitor,1,2499,Monterrey,Completada
+16/08/2026,VTA-00684,Luis,Webcam,4,349,Guadalupe,Pendiente
+06/08/2026,VTA-00685,Sofía,Webcam,2,2499,San Nicolás,Completada
+21/08/2026,VTA-00686,Carlos,Teclado,2,2499,Guadalupe,Completada
+31/08/2026,VTA-00687,Sofía,Monitor,4,199,San Nicolás,Completada
+11/09/2026,VTA-00688,Luis,Teclado,3,499,Monterrey,Completada
+05/08/2026,VTA-00689,Mariana,Mouse,5,499,Guadalupe,Completada
+29/08/2026,VTA-00690,Ana,Mouse,2,899,Guadalupe,Completada
+09/09/2026,VTA-00691,Carlos,Mouse,1,499,San Nicolás,Completada
+28/08/2026,VTA-00692,Carlos,Webcam,2,349,San Nicolás,Completada
+24/08/2026,VTA-00693,Carlos,Teclado,3,899,Guadalupe,Completada
+21/08/2026,VTA-00694,Mariana,Monitor,1,899,Guadalupe,Cancelada
+11/08/2026,VTA-00695,Sofía,Audífonos,1,2499,Guadalupe,Completada
+26/08/2026,VTA-00696,Ana,Teclado,5,2499,San Nicolás,Completada
+20/09/2026,VTA-00697,Luis,Teclado,2,899,Guadalupe,Completada
+07/10/2026,VTA-00698,Mariana,Audífonos,5,499,Monterrey,Completada
+06/10/2026,VTA-00699,Sofía,Teclado,4,899,San Nicolás,Pendiente
+18/09/2026,VTA-00700,Mariana,Webcam,2,899,Guadalupe,Completada
+27/09/2026,VTA-00701,Sofía,Webcam,1,899,Guadalupe,Completada
+14/08/2026,VTA-00702,Mariana,Teclado,2,2499,San Nicolás,Completada
+12/08/2026,VTA-00703,Carlos,Mouse,2,499,San Nicolás,Cancelada
+12/08/2026,VTA-00704,Luis,Webcam,1,199,Monterrey,Completada
+21/09/2026,VTA-00705,Luis,Mouse,2,349,San Nicolás,Completada
+26/08/2026,VTA-00706,Mariana,Audífonos,3,899,San Nicolás,Completada
+03/09/2026,VTA-00707,Sofía,Teclado,2,499,San Nicolás,Completada
+17/10/2026,VTA-00708,Mariana,Monitor,5,499,San Nicolás,Completada
+31/08/2026,VTA-00709,Sofía,Monitor,3,499,Guadalupe,Completada
+01/09/2026,VTA-00710,Mariana,Webcam,2,349,San Nicolás,Completada
+15/09/2026,VTA-00711,Mariana,Mouse,4,349,San Nicolás,Completada
+19/09/2026,VTA-00712,Carlos,Monitor,1,349,San Nicolás,Cancelada
+10/08/2026,VTA-00713,Luis,Mouse,5,349,Monterrey,Completada
+27/08/2026,VTA-00714,Carlos,Webcam,3,2499,Guadalupe,Completada
+26/08/2026,VTA-00715,Sofía,Teclado,4,199,San Nicolás,Completada
+07/09/2026,VTA-00716,Sofía,Teclado,4,349,Monterrey,Completada
+23/08/2026,VTA-00717,Luis,Monitor,3,899,Monterrey,Pendiente
+24/08/2026,VTA-00718,Ana,Webcam,1,499,Guadalupe,Completada
+14/08/2026,VTA-00719,Ana,Teclado,1,499,Guadalupe,Completada
+09/10/2026,VTA-00720,Sofía,Webcam,5,349,San Nicolás,Completada
+03/09/2026,VTA-00721,Luis,Teclado,1,2499,Guadalupe,Completada
+02/10/2026,VTA-00722,Ana,Mouse,5,899,Guadalupe,Pendiente
+25/08/2026,VTA-00723,Luis,Monitor,2,349,Guadalupe,Pendiente
+12/10/2026,VTA-00724,Carlos,Teclado,2,2499,Guadalupe,Completada
+09/09/2026,VTA-00725,Carlos,Monitor,2,899,San Nicolás,Completada
+24/08/2026,VTA-00726,Carlos,Audífonos,3,199,San Nicolás,Completada
+01/10/2026,VTA-00727,Sofía,Mouse,2,349,Monterrey,Completada
+05/08/2026,VTA-00728,Ana,Mouse,1,349,Monterrey,Completada
+19/10/2026,VTA-00729,Luis,Webcam,3,499,Monterrey,Completada
+15/09/2026,VTA-00730,Luis,Audífonos,4,499,Monterrey,Completada
+27/09/2026,VTA-00731,Luis,Webcam,3,199,Monterrey,Completada
+02/09/2026,VTA-00732,Mariana,Teclado,5,349,Monterrey,Completada
+22/09/2026,VTA-00733,Sofía,Audífonos,1,199,Monterrey,Completada
+06/10/2026,VTA-00734,Ana,Webcam,2,899,San Nicolás,Cancelada
+19/08/2026,VTA-00735,Carlos,Mouse,3,899,Guadalupe,Completada
+21/09/2026,VTA-00736,Luis,Webcam,3,899,Guadalupe,Completada
+01/08/2026,VTA-00737,Luis,Mouse,3,199,Guadalupe,Completada
+05/08/2026,VTA-00738,Ana,Teclado,5,199,Guadalupe,Completada
+15/09/2026,VTA-00739,Luis,Teclado,3,2499,San Nicolás,Completada
+10/08/2026,VTA-00740,Sofía,Mouse,1,499,Monterrey,Completada
+06/10/2026,VTA-00741,Mariana,Webcam,2,499,Guadalupe,Completada
+19/09/2026,VTA-00742,Ana,Mouse,5,2499,San Nicolás,Completada
+16/10/2026,VTA-00743,Carlos,Teclado,1,499,San Nicolás,Completada
+09/09/2026,VTA-00744,Ana,Mouse,2,2499,Monterrey,Completada
+30/08/2026,VTA-00745,Ana,Webcam,2,2499,San Nicolás,Completada
+18/10/2026,VTA-00746,Carlos,Webcam,4,899,San Nicolás,Completada
+21/09/2026,VTA-00747,Ana,Mouse,2,499,Monterrey,Pendiente
+12/09/2026,VTA-00748,Sofía,Audífonos,1,499,Monterrey,Completada
+02/09/2026,VTA-00749,Luis,Monitor,1,2499,San Nicolás,Completada
+17/09/2026,VTA-00750,Luis,Monitor,1,2499,Guadalupe,Cancelada
+11/10/2026,VTA-00751,Sofía,Mouse,5,899,Monterrey,Pendiente
+02/08/2026,VTA-00752,Sofía,Webcam,4,199,Monterrey,Pendiente
+01/09/2026,VTA-00753,Luis,Monitor,1,499,Monterrey,Completada
+09/09/2026,VTA-00754,Mariana,Webcam,5,499,Monterrey,Completada
+03/08/2026,VTA-00755,Carlos,Teclado,4,2499,San Nicolás,Completada
+14/09/2026,VTA-00756,Luis,Mouse,5,2499,Monterrey,Completada
+09/08/2026,VTA-00757,Ana,Teclado,5,899,Guadalupe,Cancelada
+17/09/2026,VTA-00758,Ana,Audífonos,1,899,San Nicolás,Completada
+01/10/2026,VTA-00759,Mariana,Teclado,2,349,Monterrey,Completada
+27/08/2026,VTA-00760,Luis,Teclado,2,199,Guadalupe,Completada
+12/09/2026,VTA-00761,Luis,Audífonos,3,499,San Nicolás,Pendiente
+20/09/2026,VTA-00762,Sofía,Audífonos,5,349,Guadalupe,Completada
+09/09/2026,VTA-00763,Luis,Teclado,5,499,San Nicolás,Completada
+03/10/2026,VTA-00764,Luis,Teclado,4,349,Guadalupe,Completada
+27/09/2026,VTA-00765,Ana,Audífonos,5,499,Guadalupe,Completada
+16/09/2026,VTA-00766,Luis,Audífonos,2,199,San Nicolás,Completada
+19/10/2026,VTA-00767,Sofía,Teclado,1,199,Guadalupe,Pendiente
+02/10/2026,VTA-00768,Sofía,Teclado,1,349,Monterrey,Completada
+26/08/2026,VTA-00769,Sofía,Webcam,2,199,Monterrey,Completada
+07/10/2026,VTA-00770,Luis,Teclado,3,499,Monterrey,Completada
+11/09/2026,VTA-00771,Carlos,Mouse,5,899,Monterrey,Cancelada
+19/08/2026,VTA-00772,Sofía,Monitor,2,899,Guadalupe,Cancelada
+13/08/2026,VTA-00773,Ana,Mouse,2,899,San Nicolás,Completada
+31/08/2026,VTA-00774,Ana,Audífonos,5,349,San Nicolás,Completada
+17/08/2026,VTA-00775,Mariana,Mouse,5,199,Guadalupe,Completada
+02/10/2026,VTA-00776,Ana,Teclado,1,199,Guadalupe,Completada
+15/10/2026,VTA-00777,Ana,Mouse,1,899,Monterrey,Completada
+14/09/2026,VTA-00778,Ana,Audífonos,1,499,San Nicolás,Completada
+16/09/2026,VTA-00779,Carlos,Mouse,2,499,San Nicolás,Completada
+07/09/2026,VTA-00780,Mariana,Mouse,3,2499,Monterrey,Completada
+30/09/2026,VTA-00781,Luis,Monitor,2,899,Monterrey,Completada
+24/09/2026,VTA-00782,Sofía,Monitor,3,2499,Monterrey,Completada
+07/08/2026,VTA-00783,Mariana,Mouse,1,499,Guadalupe,Cancelada
+05/08/2026,VTA-00784,Mariana,Webcam,4,199,Guadalupe,Completada
+30/09/2026,VTA-00785,Sofía,Webcam,5,899,Guadalupe,Completada
+15/08/2026,VTA-00786,Carlos,Webcam,3,349,Monterrey,Completada
+15/09/2026,VTA-00787,Carlos,Webcam,4,499,San Nicolás,Cancelada
+13/10/2026,VTA-00788,Ana,Webcam,2,199,Guadalupe,Completada
+28/09/2026,VTA-00789,Sofía,Audífonos,3,2499,San Nicolás,Completada
+22/08/2026,VTA-00790,Mariana,Teclado,5,2499,San Nicolás,Completada
+14/09/2026,VTA-00791,Carlos,Teclado,5,499,Monterrey,Completada
+17/10/2026,VTA-00792,Luis,Monitor,5,499,Guadalupe,Completada
+11/10/2026,VTA-00793,Carlos,Teclado,3,349,San Nicolás,Completada
+18/08/2026,VTA-00794,Carlos,Webcam,5,2499,San Nicolás,Cancelada
+18/09/2026,VTA-00795,Carlos,Audífonos,4,349,Monterrey,Completada
+12/08/2026,VTA-00796,Luis,Webcam,5,349,Guadalupe,Completada
+21/09/2026,VTA-00797,Ana,Mouse,3,2499,San Nicolás,Completada
+14/09/2026,VTA-00798,Luis,Teclado,3,199,Monterrey,Completada
+18/09/2026,VTA-00799,Luis,Monitor,4,499,Monterrey,Completada
+05/10/2026,VTA-00800,Ana,Audífonos,2,349,San Nicolás,Completada
+04/09/2026,VTA-00801,Sofía,Teclado,5,499,San Nicolás,Completada
+28/08/2026,VTA-00802,Mariana,Teclado,1,349,Guadalupe,Completada
+01/08/2026,VTA-00803,Luis,Mouse,2,349,Guadalupe,Completada
+27/09/2026,VTA-00804,Carlos,Webcam,4,2499,San Nicolás,Completada
+19/10/2026,VTA-00805,Mariana,Mouse,3,2499,Guadalupe,Completada
+13/09/2026,VTA-00806,Sofía,Mouse,5,899,San Nicolás,Completada
+15/10/2026,VTA-00807,Carlos,Webcam,5,899,San Nicolás,Cancelada
+19/10/2026,VTA-00808,Sofía,Audífonos,2,349,Guadalupe,Completada
+02/10/2026,VTA-00809,Ana,Monitor,5,199,Guadalupe,Completada
+15/08/2026,VTA-00810,Carlos,Monitor,3,2499,Guadalupe,Completada
+22/09/2026,VTA-00811,Mariana,Mouse,2,2499,Guadalupe,Completada
+30/09/2026,VTA-00812,Ana,Mouse,2,899,Monterrey,Completada
+21/08/2026,VTA-00813,Sofía,Monitor,3,499,Guadalupe,Completada
+09/09/2026,VTA-00814,Luis,Webcam,5,199,Monterrey,Cancelada
+06/09/2026,VTA-00815,Luis,Mouse,1,899,San Nicolás,Completada
+07/08/2026,VTA-00816,Carlos,Teclado,1,349,San Nicolás,Pendiente
+02/10/2026,VTA-00817,Luis,Teclado,2,199,San Nicolás,Pendiente
+04/08/2026,VTA-00818,Carlos,Monitor,1,199,San Nicolás,Completada
+04/10/2026,VTA-00819,Carlos,Monitor,1,899,Guadalupe,Completada
+03/10/2026,VTA-00820,Luis,Teclado,1,499,Guadalupe,Completada
+07/08/2026,VTA-00821,Sofía,Mouse,5,2499,Guadalupe,Completada
+12/09/2026,VTA-00822,Luis,Mouse,2,349,Guadalupe,Completada
+25/09/2026,VTA-00823,Carlos,Monitor,4,499,Guadalupe,Cancelada
+08/08/2026,VTA-00824,Carlos,Monitor,3,199,Monterrey,Completada
+03/10/2026,VTA-00825,Luis,Audífonos,5,199,Guadalupe,Completada
+18/08/2026,VTA-00826,Sofía,Webcam,1,199,San Nicolás,Completada
+24/09/2026,VTA-00827,Sofía,Webcam,3,2499,Monterrey,Completada
+17/09/2026,VTA-00828,Sofía,Teclado,2,2499,Monterrey,Completada
+25/08/2026,VTA-00829,Sofía,Audífonos,3,349,San Nicolás,Completada
+14/08/2026,VTA-00830,Sofía,Audífonos,5,899,San Nicolás,Completada
+12/08/2026,VTA-00831,Sofía,Webcam,1,499,Monterrey,Completada
+15/10/2026,VTA-00832,Ana,Teclado,1,2499,Guadalupe,Completada
+23/09/2026,VTA-00833,Mariana,Monitor,5,499,Guadalupe,Completada
+23/08/2026,VTA-00834,Carlos,Audífonos,3,199,San Nicolás,Completada
+19/08/2026,VTA-00835,Ana,Monitor,4,2499,San Nicolás,Completada
+03/10/2026,VTA-00836,Sofía,Teclado,5,2499,Monterrey,Pendiente
+19/09/2026,VTA-00837,Ana,Monitor,1,899,Guadalupe,Cancelada
+25/09/2026,VTA-00838,Carlos,Mouse,2,349,Monterrey,Completada
+03/09/2026,VTA-00839,Ana,Teclado,4,899,Monterrey,Completada
+08/08/2026,VTA-00840,Carlos,Monitor,4,199,Monterrey,Pendiente
+21/09/2026,VTA-00841,Sofía,Audífonos,3,899,San Nicolás,Completada
+23/08/2026,VTA-00842,Carlos,Audífonos,1,2499,Monterrey,Cancelada
+08/09/2026,VTA-00843,Mariana,Teclado,3,199,Guadalupe,Completada
+14/08/2026,VTA-00844,Ana,Monitor,5,199,Guadalupe,Cancelada
+06/08/2026,VTA-00845,Luis,Mouse,5,2499,Guadalupe,Completada
+24/09/2026,VTA-00846,Luis,Mouse,4,349,Monterrey,Completada
+26/08/2026,VTA-00847,Sofía,Webcam,3,349,Monterrey,Completada
+10/09/2026,VTA-00848,Mariana,Webcam,4,899,Guadalupe,Pendiente
+12/09/2026,VTA-00849,Luis,Teclado,5,349,San Nicolás,Completada
+18/10/2026,VTA-00850,Carlos,Teclado,3,199,Monterrey,Completada
+11/10/2026,VTA-00851,Carlos,Audífonos,2,349,Monterrey,Completada
+17/08/2026,VTA-00852,Ana,Teclado,4,2499,San Nicolás,Pendiente
+25/08/2026,VTA-00853,Ana,Teclado,4,199,San Nicolás,Completada
+22/09/2026,VTA-00854,Luis,Monitor,1,899,San Nicolás,Completada
+11/08/2026,VTA-00855,Carlos,Audífonos,3,499,San Nicolás,Completada
+17/08/2026,VTA-00856,Carlos,Webcam,1,899,Monterrey,Completada
+17/10/2026,VTA-00857,Mariana,Mouse,2,499,San Nicolás,Completada
+14/10/2026,VTA-00858,Mariana,Mouse,1,499,Monterrey,Completada
+05/08/2026,VTA-00859,Ana,Monitor,3,199,Guadalupe,Completada
+22/09/2026,VTA-00860,Luis,Monitor,1,899,Monterrey,Pendiente
+15/10/2026,VTA-00861,Sofía,Audífonos,1,2499,Guadalupe,Completada
+19/10/2026,VTA-00862,Sofía,Webcam,5,2499,Guadalupe,Completada
+11/09/2026,VTA-00863,Mariana,Webcam,3,499,San Nicolás,Cancelada
+13/08/2026,VTA-00864,Luis,Webcam,1,2499,San Nicolás,Completada
+16/10/2026,VTA-00865,Carlos,Webcam,1,349,Monterrey,Completada
+11/09/2026,VTA-00866,Mariana,Mouse,4,199,San Nicolás,Completada
+06/09/2026,VTA-00867,Carlos,Mouse,1,2499,Guadalupe,Completada
+12/10/2026,VTA-00868,Sofía,Monitor,2,349,Monterrey,Completada
+20/08/2026,VTA-00869,Carlos,Audífonos,3,199,Guadalupe,Completada
+05/08/2026,VTA-00870,Sofía,Monitor,2,899,San Nicolás,Cancelada
+24/09/2026,VTA-00871,Ana,Monitor,2,499,Monterrey,Cancelada
+17/08/2026,VTA-00872,Carlos,Teclado,5,349,San Nicolás,Completada
+23/09/2026,VTA-00873,Ana,Monitor,5,2499,San Nicolás,Completada
+01/10/2026,VTA-00874,Mariana,Monitor,1,899,Monterrey,Completada
+15/10/2026,VTA-00875,Carlos,Webcam,3,2499,San Nicolás,Completada
+15/09/2026,VTA-00876,Sofía,Webcam,2,199,San Nicolás,Completada
+12/08/2026,VTA-00877,Sofía,Monitor,4,2499,Monterrey,Pendiente
+18/08/2026,VTA-00878,Mariana,Mouse,2,349,Monterrey,Completada
+16/09/2026,VTA-00879,Carlos,Teclado,3,899,Monterrey,Completada
+18/08/2026,VTA-00880,Mariana,Mouse,5,199,Monterrey,Pendiente
+10/09/2026,VTA-00881,Mariana,Audífonos,3,899,San Nicolás,Completada
+22/08/2026,VTA-00882,Ana,Monitor,5,899,Monterrey,Completada
+17/10/2026,VTA-00883,Ana,Monitor,3,349,San Nicolás,Completada
+12/08/2026,VTA-00884,Sofía,Monitor,3,499,San Nicolás,Completada
+01/10/2026,VTA-00885,Carlos,Mouse,2,349,Guadalupe,Pendiente
+18/09/2026,VTA-00886,Carlos,Teclado,2,349,San Nicolás,Cancelada
+30/09/2026,VTA-00887,Sofía,Audífonos,4,199,Guadalupe,Completada
+19/08/2026,VTA-00888,Sofía,Audífonos,4,199,Monterrey,Pendiente
+15/08/2026,VTA-00889,Ana,Monitor,1,199,Guadalupe,Completada
+10/08/2026,VTA-00890,Carlos,Mouse,1,499,Guadalupe,Completada
+18/08/2026,VTA-00891,Mariana,Teclado,2,899,Guadalupe,Completada
+01/10/2026,VTA-00892,Mariana,Teclado,1,199,San Nicolás,Cancelada
+27/08/2026,VTA-00893,Mariana,Webcam,3,349,Guadalupe,Completada
+07/09/2026,VTA-00894,Mariana,Teclado,5,899,Monterrey,Pendiente
+21/08/2026,VTA-00895,Sofía,Webcam,4,499,San Nicolás,Completada
+06/08/2026,VTA-00896,Sofía,Audífonos,4,499,Guadalupe,Completada
+15/09/2026,VTA-00897,Ana,Mouse,1,2499,Monterrey,Completada
+14/08/2026,VTA-00898,Ana,Monitor,3,349,Monterrey,Completada
+06/09/2026,VTA-00899,Carlos,Teclado,2,349,Guadalupe,Completada
+02/09/2026,VTA-00900,Luis,Webcam,4,199,Monterrey,Completada
+24/08/2026,VTA-00901,Mariana,Webcam,1,899,San Nicolás,Completada
+13/08/2026,VTA-00902,Sofía,Audífonos,1,2499,San Nicolás,Completada
+10/10/2026,VTA-00903,Carlos,Teclado,1,199,Monterrey,Cancelada
+23/09/2026,VTA-00904,Sofía,Webcam,1,199,San Nicolás,Completada
+22/09/2026,VTA-00905,Sofía,Monitor,1,349,Monterrey,Cancelada
+01/10/2026,VTA-00906,Carlos,Monitor,3,349,San Nicolás,Cancelada
+25/08/2026,VTA-00907,Mariana,Mouse,4,2499,Guadalupe,Completada
+14/10/2026,VTA-00908,Sofía,Webcam,1,199,Monterrey,Completada
+23/09/2026,VTA-00909,Luis,Teclado,4,349,Guadalupe,Completada
+04/10/2026,VTA-00910,Carlos,Monitor,4,349,Monterrey,Completada
+01/08/2026,VTA-00911,Ana,Webcam,5,199,San Nicolás,Pendiente
+14/08/2026,VTA-00912,Sofía,Teclado,5,349,Guadalupe,Completada
+15/09/2026,VTA-00913,Carlos,Audífonos,3,349,Guadalupe,Completada
+26/09/2026,VTA-00914,Luis,Teclado,1,199,San Nicolás,Cancelada
+18/09/2026,VTA-00915,Mariana,Audífonos,2,899,Monterrey,Completada
+24/08/2026,VTA-00916,Mariana,Mouse,3,199,Monterrey,Cancelada
+11/09/2026,VTA-00917,Mariana,Webcam,2,499,San Nicolás,Completada
+15/10/2026,VTA-00918,Ana,Webcam,2,2499,San Nicolás,Completada
+22/08/2026,VTA-00919,Ana,Webcam,4,349,Monterrey,Completada
+31/08/2026,VTA-00920,Sofía,Audífonos,3,199,Guadalupe,Completada
+10/10/2026,VTA-00921,Sofía,Teclado,5,899,San Nicolás,Completada
+15/09/2026,VTA-00922,Carlos,Audífonos,5,2499,San Nicolás,Completada
+19/10/2026,VTA-00923,Sofía,Mouse,2,2499,Guadalupe,Completada
+05/09/2026,VTA-00924,Sofía,Mouse,3,2499,Monterrey,Completada
+06/10/2026,VTA-00925,Ana,Webcam,3,349,Monterrey,Cancelada
+07/08/2026,VTA-00926,Sofía,Teclado,1,2499,San Nicolás,Completada
+20/08/2026,VTA-00927,Luis,Audífonos,4,499,Guadalupe,Pendiente
+21/09/2026,VTA-00928,Mariana,Webcam,5,199,San Nicolás,Completada
+22/08/2026,VTA-00929,Luis,Teclado,2,899,San Nicolás,Completada
+03/08/2026,VTA-00930,Mariana,Mouse,3,349,Monterrey,Completada
+09/08/2026,VTA-00931,Luis,Audífonos,1,499,Guadalupe,Completada
+22/08/2026,VTA-00932,Sofía,Mouse,2,349,Guadalupe,Completada
+05/08/2026,VTA-00933,Carlos,Audífonos,3,199,San Nicolás,Completada
+01/10/2026,VTA-00934,Ana,Monitor,2,499,Guadalupe,Completada
+21/08/2026,VTA-00935,Sofía,Monitor,3,199,Monterrey,Completada
+08/09/2026,VTA-00936,Carlos,Mouse,4,349,Guadalupe,Cancelada
+24/08/2026,VTA-00937,Luis,Audífonos,1,899,Guadalupe,Completada
+04/10/2026,VTA-00938,Ana,Audífonos,2,349,Monterrey,Completada
+08/10/2026,VTA-00939,Mariana,Audífonos,2,2499,Guadalupe,Completada
+09/10/2026,VTA-00940,Mariana,Mouse,4,2499,Guadalupe,Completada
+08/08/2026,VTA-00941,Mariana,Monitor,1,899,San Nicolás,Completada
+03/10/2026,VTA-00942,Ana,Webcam,2,499,San Nicolás,Completada
+26/08/2026,VTA-00943,Carlos,Webcam,4,2499,San Nicolás,Completada
+11/09/2026,VTA-00944,Carlos,Webcam,1,349,Monterrey,Completada
+15/09/2026,VTA-00945,Mariana,Mouse,5,899,Monterrey,Completada
+29/08/2026,VTA-00946,Mariana,Webcam,4,899,San Nicolás,Completada
+23/08/2026,VTA-00947,Mariana,Mouse,4,899,San Nicolás,Completada
+24/09/2026,VTA-00948,Sofía,Mouse,2,199,Guadalupe,Completada
+06/10/2026,VTA-00949,Ana,Audífonos,2,899,San Nicolás,Completada
+22/08/2026,VTA-00950,Mariana,Audífonos,1,499,Guadalupe,Cancelada
+01/10/2026,VTA-00951,Luis,Audífonos,2,199,Guadalupe,Completada
+14/08/2026,VTA-00952,Sofía,Audífonos,2,349,Monterrey,Completada
+09/08/2026,VTA-00953,Mariana,Teclado,5,199,San Nicolás,Completada
+12/10/2026,VTA-00954,Sofía,Mouse,3,899,Monterrey,Completada
+03/09/2026,VTA-00955,Luis,Monitor,3,2499,Monterrey,Completada
+11/08/2026,VTA-00956,Ana,Monitor,3,199,San Nicolás,Completada
+09/08/2026,VTA-00957,Sofía,Webcam,1,499,San Nicolás,Completada
+12/10/2026,VTA-00958,Luis,Webcam,5,899,Monterrey,Pendiente
+30/08/2026,VTA-00959,Carlos,Audífonos,3,499,Monterrey,Pendiente
+16/10/2026,VTA-00960,Mariana,Monitor,2,349,San Nicolás,Completada
+25/09/2026,VTA-00961,Luis,Teclado,3,899,Monterrey,Completada
+01/09/2026,VTA-00962,Mariana,Mouse,1,349,Monterrey,Completada
+19/10/2026,VTA-00963,Ana,Mouse,3,499,Guadalupe,Completada
+11/10/2026,VTA-00964,Ana,Teclado,3,499,Monterrey,Completada
+03/10/2026,VTA-00965,Mariana,Mouse,1,899,San Nicolás,Completada
+21/08/2026,VTA-00966,Carlos,Monitor,5,899,Monterrey,Completada
+12/10/2026,VTA-00967,Carlos,Webcam,1,2499,San Nicolás,Completada
+08/08/2026,VTA-00968,Mariana,Monitor,4,2499,Guadalupe,Completada
+30/09/2026,VTA-00969,Carlos,Audífonos,3,499,Monterrey,Completada
+02/08/2026,VTA-00970,Carlos,Monitor,5,199,Monterrey,Pendiente
+29/08/2026,VTA-00971,Ana,Mouse,5,349,Guadalupe,Completada
+01/08/2026,VTA-00972,Ana,Webcam,5,499,Guadalupe,Completada
+16/10/2026,VTA-00973,Luis,Monitor,3,899,Monterrey,Cancelada
+02/08/2026,VTA-00974,Ana,Webcam,1,349,San Nicolás,Pendiente
+30/09/2026,VTA-00975,Luis,Teclado,2,899,Monterrey,Completada
+24/09/2026,VTA-00976,Sofía,Teclado,3,899,Monterrey,Completada
+03/08/2026,VTA-00977,Mariana,Mouse,2,349,Monterrey,Completada
+19/09/2026,VTA-00978,Sofía,Monitor,4,349,San Nicolás,Completada
+25/08/2026,VTA-00979,Mariana,Audífonos,4,2499,Guadalupe,Completada
+03/08/2026,VTA-00980,Ana,Mouse,1,2499,San Nicolás,Completada
+16/10/2026,VTA-00981,Sofía,Audífonos,1,499,Guadalupe,Completada
+15/09/2026,VTA-00982,Ana,Webcam,1,349,San Nicolás,Completada
+05/08/2026,VTA-00983,Ana,Monitor,2,349,San Nicolás,Pendiente
+17/09/2026,VTA-00984,Carlos,Webcam,4,2499,Monterrey,Completada
+19/10/2026,VTA-00985,Mariana,Monitor,2,899,Guadalupe,Completada
+15/09/2026,VTA-00986,Mariana,Mouse,2,199,Monterrey,Completada
+08/10/2026,VTA-00987,Sofía,Teclado,2,2499,Guadalupe,Completada
+03/09/2026,VTA-00988,Ana,Webcam,5,499,San Nicolás,Cancelada
+13/08/2026,VTA-00989,Mariana,Webcam,3,899,San Nicolás,Completada
+03/10/2026,VTA-00990,Sofía,Teclado,5,349,Guadalupe,Completada
+25/08/2026,VTA-00991,Luis,Webcam,1,499,Guadalupe,Completada
+15/08/2026,VTA-00992,Mariana,Mouse,1,199,Guadalupe,Completada
+08/08/2026,VTA-00993,Sofía,Audífonos,1,899,Guadalupe,Completada
+16/08/2026,VTA-00994,Ana,Audífonos,2,349,San Nicolás,Completada
+06/09/2026,VTA-00995,Ana,Teclado,1,199,San Nicolás,Completada
+10/10/2026,VTA-00996,Luis,Audífonos,2,199,Monterrey,Completada
+20/08/2026,VTA-00997,Ana,Teclado,1,199,Monterrey,Completada
+14/09/2026,VTA-00998,Ana,Webcam,5,499,Monterrey,Cancelada
+08/09/2026,VTA-00999,Sofía,Webcam,4,349,Guadalupe,Completada
+01/08/2026,VTA-01000,Ana,Monitor,3,199,Guadalupe,Completada
